@@ -51,7 +51,6 @@ The results obtained with this model was:
            6       0.70      0.46      0.55       191
            7       0.81      0.86      0.84       196
            8       0.93      1.00      0.97       185
-
     accuracy                           0.84      1136
-   macro avg       0.83      0.84      0.83      1136
-weighted avg       0.83      0.84      0.83      1136
+    macro avg       0.83      0.84      0.83      1136
+    weighted avg       0.83      0.84      0.83      1136
